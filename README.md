@@ -6,8 +6,6 @@
 ![screen](https://user-images.githubusercontent.com/48883581/57234681-244f7500-705c-11e9-87fe-74eca7987f53.jpg)
 
 
-
-
 # 프로그램 실행하기
 1. 월드 생성하기 : 월드를 생성할 때, creative모드로 설정하고 superflat으로 생성합니다.
 
@@ -24,4 +22,4 @@
 실행 4 : /tp 900 10 40<br>
 
 # 동영상
-[![동영상](https://img.youtube.com/vi/_iebnIqTjzk&feature/hqdefault.jpg)](https://www.youtube.com/watch?v=_iebnIqTjzk&feature)
+[![동영상](https://img.youtube.com/vi/_iebnIqTjzk&feature=/hqdefault.jpg)](https://www.youtube.com/watch?v=_iebnIqTjzk&feature=)
